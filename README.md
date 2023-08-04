@@ -1,2 +1,2 @@
-# Rabdom_quote
+# Random_quote
 coding raja technology
